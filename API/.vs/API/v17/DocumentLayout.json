@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|c:\\users\\amidor\\desktop\\pfebackcopie\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|c:\\users\\amidor\\desktop\\pfebackcopie\\api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|c:\\users\\amidor\\desktop\\pfebackcopie\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|c:\\users\\amidor\\desktop\\pfebackcopie\\api\\data\\pfecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|solutionrelative:data\\pfecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|c:\\users\\amidor\\desktop\\pfebackcopie\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|c:\\users\\amidor\\desktop\\pfebackcopie\\api\\dto\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|solutionrelative:dto\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|c:\\users\\amidor\\desktop\\pfebackcopie\\api\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D6B2DE-E4F2-43B6-90E0-B310BD1A83BF}|API.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:49:37.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T18:45:51.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PFEContext.cs",
+              "DocumentMoniker": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\Data\\PFEContext.cs",
+              "RelativeDocumentMoniker": "Data\\PFEContext.cs",
+              "ToolTip": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\Data\\PFEContext.cs",
+              "RelativeToolTip": "Data\\PFEContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:57:30.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:51:37.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\DTO\\RegistrationResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\RegistrationResponse.cs",
+              "ToolTip": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\DTO\\RegistrationResponse.cs",
+              "RelativeToolTip": "DTO\\RegistrationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:55:33.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:52:59.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Amidor\\Desktop\\PFEBackcopie\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:51:17.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
